@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "bundle": "https://yourserver.com/android/1.0.0/index.bundle",
-  "assetsZip": "https://yourserver.com/android/1.0.0/assets.zip",
+  "bundle": "https://github.com/pranav7668-afk/doc-ota/tree/beta/android/1.0.0/index.bundle",
+  "assetsZip": "https://github.com/pranav7668-afk/doc-ota/tree/beta/android/1.0.0/assets.zip",
   "releaseNotes": "Simple OTA v1.0.0"
 }
